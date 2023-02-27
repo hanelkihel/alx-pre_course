@@ -1,1 +1,1 @@
-My first readme
+I'm a softwear inginer student
